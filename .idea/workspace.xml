@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c3ec796-69d9-46b6-834c-13eb8dac302a" name="Changes" comment="fixes1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="delevop" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GitHub-Repository" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IlyaElkin98&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IlyaElkin98/GitHub-Repository.git&quot;,
+    &quot;accountId&quot;: &quot;9b6d63ef-5473-408c-bf45-2e1da96b9c90&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sUiOZTvYscMhBHiSpW4KUC6kGz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c3ec796-69d9-46b6-834c-13eb8dac302a" name="Changes" comment="" />
+      <created>1738516522585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738516522585</updated>
+    </task>
+    <task id="LOCAL-00001" summary="fixes for dev">
+      <option name="closed" value="true" />
+      <created>1738855958120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738855958120</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fixes for dev1">
+      <option name="closed" value="true" />
+      <created>1738856070485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738856070485</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixes for dev1">
+      <option name="closed" value="true" />
+      <created>1738856140775</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738856140775</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixes for dev1">
+      <option name="closed" value="true" />
+      <created>1738856286863</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738856286863</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixes for dev1wq">
+      <option name="closed" value="true" />
+      <created>1738856359038</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738856359038</updated>
+    </task>
+    <task id="LOCAL-00006" summary="the end">
+      <option name="closed" value="true" />
+      <created>1738856500084</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738856500084</updated>
+    </task>
+    <task id="LOCAL-00007" summary="the end">
+      <option name="closed" value="true" />
+      <created>1738857197059</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738857197059</updated>
+    </task>
+    <task id="LOCAL-00008" summary="the end">
+      <option name="closed" value="true" />
+      <created>1738857302890</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1738857302890</updated>
+    </task>
+    <task id="LOCAL-00009" summary="the end">
+      <option name="closed" value="true" />
+      <created>1738857538516</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738857538516</updated>
+    </task>
+    <task id="LOCAL-00010" summary="the end">
+      <option name="closed" value="true" />
+      <created>1738857832155</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1738857832155</updated>
+    </task>
+    <task id="LOCAL-00011" summary="the end">
+      <option name="closed" value="true" />
+      <created>1738862480473</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738862480473</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixes">
+      <option name="closed" value="true" />
+      <created>1738862941776</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738862941776</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fixes1">
+      <option name="closed" value="true" />
+      <created>1738862988927</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738862988927</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fixes1">
+      <option name="closed" value="true" />
+      <created>1738863124005</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1738863124005</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixes for dev" />
+    <MESSAGE value="fixes for dev1" />
+    <MESSAGE value="fixes for dev1wq" />
+    <MESSAGE value="the end" />
+    <MESSAGE value="fixes" />
+    <MESSAGE value="fixes1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes1" />
+  </component>
+</project>
