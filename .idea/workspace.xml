@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c3ec796-69d9-46b6-834c-13eb8dac302a" name="Changes" comment="fixes1" />
+    <list default="true" id="6c3ec796-69d9-46b6-834c-13eb8dac302a" name="Changes" comment="fixes1">
+      <change beforePath="$PROJECT_DIR$/GitHub-Repository" beforeDir="false" afterPath="$PROJECT_DIR$/GitHub-Repository" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitHub-Repository/file1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GitHub-Repository/file1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_COMMON_BRANCH" value="delevop" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GitHub-Repository" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -36,6 +39,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2sUiOZTvYscMhBHiSpW4KUC6kGz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +47,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ilifu/Desktop/PythonProject/PythonProject4"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -174,8 +180,35 @@
       <option name="project" value="LOCAL" />
       <updated>1738863124005</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="fixes1">
+      <option name="closed" value="true" />
+      <created>1738865649597</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1738865649597</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixes1">
+      <option name="closed" value="true" />
+      <created>1738865735388</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738865735388</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixes for dev" />
